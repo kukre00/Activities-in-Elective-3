@@ -12,7 +12,7 @@ I also use some "href" so I can attach links in the item list
 
 CSS
 In styling my responsive navigation bar, I use the black and red color combination
-with a touch of white to look simple but elegant in the eyes. I hover over the navigation bar list
+with a touch of white to look simple but elegant in the eyes. I use the hover effect over the navigation bar list
 to see the item. I also added a clicking effect to know the item is already clicked.
 
 JavaScript
